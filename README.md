@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhra Pal</h1>
-<h3 align="center">I am a Chemistry student, still I am passionate about this</h3>
+<h3 align="center">I am a Chemistry student, still I am passionate about this😊</h3>
 
 - 🌱 I’m currently learning **javascript, python**
 
