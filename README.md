@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **palabhra123@gmail.com**
 
-- ⚡ Fun fact **Javascript is drunk!but python is enough smart**
+- ⚡ Fun fact **Javascript is drunk! but python is smart enough😉**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
